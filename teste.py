@@ -1,1 +1,0 @@
-print("presta atenção")
